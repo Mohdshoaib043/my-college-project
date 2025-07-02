@@ -41,7 +41,7 @@ The system allows students to give feedback in multiple steps and stores it secu
 
 
 ## Screenshot
-![Home page]   (Home page.png)
+![Home page]   (home page.png)
 
 
 ## 🙋 Author
