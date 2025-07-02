@@ -40,6 +40,10 @@ The system allows students to give feedback in multiple steps and stores it secu
 5. Open browser and go to `http://localhost/feedback_system`.
 
 
+## Screenshot
+![Home page]   (Home page.png)
+
+
 ## 🙋 Author
 
 Mohd Shoaib 
